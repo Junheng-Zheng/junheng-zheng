@@ -6,7 +6,7 @@ Currently, I'm majoring in **Web & Mobile Computing** at **Rochester Institute o
 
 In my free time, you can find me building **side projects** and experimenting with **new technologies**. 🚀
 
-## 🔧 Technologies & Tools
+## 🔧 Favorite Tools ATM 
 - **Frontend**: React, Next.js, Tailwind CSS, Typescript
 - **UI/UX Design**: Procreate, Figma 
 - **Tools**: Git, GitHub, VS Code
