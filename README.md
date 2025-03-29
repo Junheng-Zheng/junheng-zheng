@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Junheng Zheng and I am a Frontend Developer & UI/UX Designer
+Im currently majoring in Web & Mobile Computing @ RIT
+You can find me building side projects during my free time! 
 <!--
 **Junheng-Zheng/junheng-zheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
