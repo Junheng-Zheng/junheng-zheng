@@ -1,8 +1,8 @@
 ![GitHub Profile Banner](https://junheng.dev/hand.jpg)
 
-# Hi, I'm Junheng 👋
+# DEVELOPER & DESIGNER BASED IN NYC
 
-Product Designer and UX Developer based in NYC. I combine design and development to create seamless digital experiences. Prev. @ Liberty Mutual Insurance working on their internal design system.
+Junheng Zheng combines design and development to create seamless digital experiences. Previously @ Liberty Mutual Insurance working on their internal design system, Enterprise UI.
 
 Development Skills
 
