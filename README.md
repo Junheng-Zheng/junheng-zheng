@@ -1,6 +1,6 @@
 ![GitHub Profile Banner](https://junheng.dev/hand.jpg)
 
-# DEVELOPER & DESIGNER BASED IN NYC
+# Junheng Zheng is a Developer & Designer
 
 Junheng Zheng combines design and development to create seamless digital experiences. Previously @ Liberty Mutual Insurance working on their internal design system, Enterprise UI.
 
