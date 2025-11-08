@@ -1,9 +1,14 @@
-![GitHub Profile Banner](https://junheng.dev/image.png)
+![GitHub Profile Banner](https://junheng.dev/hand.jpg)
 
-Hi, I'm Junheng 👋
-I blend design & development to solve complex problems. 
+# Hi, I'm Junheng 👋
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,figma)](https://skillicons.dev)
+Product Designer and UX Developer based in NYC. I combine design and development to create seamless digital experiences. Prev. @ Liberty Mutual Insurance working on their internal design system.
 
+Development Skills
 
-Find me on my LinkedIn!
+[![My Skills](https://skillicons.dev/icons?i=react,js,tailwind,nextjs,nodejs,express)](https://skillicons.dev)
+
+Design Skills
+
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator)](https://skillicons.dev)
+
