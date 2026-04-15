@@ -1,4 +1,4 @@
-![GitHub Profile Banner](https://junheng.dev/hand.jpg)
+
 
 # Hello, i'm Junheng 
 
