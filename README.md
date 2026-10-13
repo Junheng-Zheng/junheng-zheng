@@ -1,8 +1,10 @@
-<img
-  src="https://images.unsplash.com/photo-1791626308304-187bc78df384?auto=format&fit=crop&crop=entropy&w=2048&h=512&q=90"
-  alt="Profile Banner"
-  width="100%"
-/>
+<p align="center">
+  <img
+    src="https://images.unsplash.com/photo-1791626308304-187bc78df384?auto=format&fit=crop&crop=center&w=2048&h=512&q=90"
+    alt="Profile Banner"
+    width="100%"
+  />
+</p>
 
 ### Junheng Zheng combines design and development to create seamless digital experiences. Currently @ Tesla. Previously @ IBM Research, Liberty Mutual Insurance, and various startups
 
