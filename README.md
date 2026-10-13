@@ -6,7 +6,7 @@
   />
 </p>
 
-### Junheng Zheng (Jun) works across design systems, enterprise tools, and frontend infra. Currently @ Tesla. Prev. @ IBM Research, Liberty Mutual, and various startups
+### Junheng Zheng (Jun) works across design systems, enterprise tools, and frontend infra. Currently @ Tesla. Prev. @ IBM Research, Liberty Mutual, and various startups.
 
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,tailwind,nextjs,nodejs,express,figma,photoshop,illustrator)](https://skillicons.dev)
