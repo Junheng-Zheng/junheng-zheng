@@ -1,6 +1,6 @@
 <img
-  src="https://images.unsplash.com/photo-1791626308304-187bc78df384?q=80&w=2040&auto=format&fit=crop"
-  alt="GitHub Profile Banner"
+  src="https://images.unsplash.com/photo-1791626308304-187bc78df384?auto=format&fit=crop&crop=entropy&w=2048&h=512&q=90"
+  alt="Profile Banner"
   width="100%"
 />
 
